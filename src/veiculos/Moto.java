@@ -13,3 +13,5 @@ public class Moto extends Veiculo {
     System.out.println("Possui partida elétrica: " + (partidaEletrica ? "Sim" : "Não"));
   }
 }
+
+//Testando
